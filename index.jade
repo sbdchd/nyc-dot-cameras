@@ -6,12 +6,6 @@ html(lang=en)
     meta(name='viewport' content='width=device-width, initial-scale=1')
     title#title NYC DOT Cameras
     meta(name='description' content='NYC DOT Cameras')
-  body
-    - var URL = "http://207.251.86.238/cctv"
-
-    // After 825, the cameras seem to be dead
-    - for(var x = 0; x < 826; x++) {
-      img(src= URL + x +".jpg")
-    - }
+  body#main
 
   script(src="/index.js")
