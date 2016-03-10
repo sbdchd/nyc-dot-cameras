@@ -17,7 +17,9 @@ var load = function(n) {
     'use strict';
     var URL = "http://207.251.86.238/cctv";
     for (var i = 0; i < n; i++) {
-        var img = "<img src='" + URL + i + ".jpg'>";
+        var src = URL + i;
+        var title = "Camera " + i;
+        var img = "<img src='" + src + ".jpg'" + "title='" + title + "'>";
         document.getElementById("main").insertAdjacentHTML('beforeend', img);
     }
 };

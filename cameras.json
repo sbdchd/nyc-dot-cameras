@@ -1,0 +1,1794 @@
+{
+    "112": {
+        "locale": "SIE @ Richmond Ave",
+        "area": "statenIsland"
+    },
+    "118": {
+        "locale": "GCP @ 214 St",
+        "area": "queens"
+    },
+    "119": {
+        "locale": "GCP @ 166 St",
+        "area": "queens"
+    },
+    "120": {
+        "locale": "Cross Island Pkwy @ Union Tpke",
+        "area": "queens"
+    },
+    "121": {
+        "locale": "LIE @ Kissena Blvd",
+        "area": "queens"
+    },
+    "123": {
+        "locale": "Clearview @ Northern Blvd",
+        "area": "queens"
+    },
+    "124": {
+        "locale": "Qns Blvd @ 65 Ave",
+        "area": "queens"
+    },
+    "125": {
+        "locale": "Qns Blvd @ QnCnt Mall",
+        "area": "queens"
+    },
+    "126": {
+        "locale": "Qns Blvd @ 65 PL",
+        "area": "queens"
+    },
+    "128": {
+        "locale": "Belt Pkwy @ 130 St",
+        "area": "queens"
+    },
+    "132": {
+        "locale": "Belt Pkwy @ Flatbush",
+        "area": "brooklyn"
+    },
+    "139": {
+        "locale": "Belt Pkwy @ 68 St",
+        "area": "brooklyn"
+    },
+    "141": {
+        "locale": "Belt Pkwy @ Erskine",
+        "area": "brooklyn"
+    },
+    "142": {
+        "locale": "GCP @ Astoria Blvd @ 49 St",
+        "area": "queens"
+    },
+    "143": {
+        "locale": "Cross Island Pkwy @ Throgsneck",
+        "area": "queens"
+    },
+    "146": {
+        "locale": "Major Deegan @ Triboro Bridge",
+        "area": "bronx"
+    },
+    "147": {
+        "locale": "New Eng Thru @ Bartow",
+        "area": "bronx"
+    },
+    "152": {
+        "locale": "GR Brewer @ Belt",
+        "area": "queens"
+    },
+    "154": {
+        "locale": "Victory Blvd @ Jersey St",
+        "area": "statenIsland"
+    },
+    "155": {
+        "locale": "Victory Blvd @ Bay St",
+        "area": "statenIsland"
+    },
+    "157": {
+        "locale": "Holland Tunnel",
+        "area": "manhattan"
+    },
+    "159": {
+        "locale": "Grand Army Plaza",
+        "area": "brooklyn"
+    },
+    "160": {
+        "locale": "GCP @ 31 ST",
+        "area": "queens"
+    },
+    "161": {
+        "locale": "Queens Blvd @ Van Dam",
+        "area": "queens"
+    },
+    "163": {
+        "locale": "Church Street @ Vesey",
+        "area": "manhattan"
+    },
+    "164": {
+        "locale": "2 Ave @ 59 St (QBB)",
+        "area": "manhattan"
+    },
+    "165": {
+        "locale": "2 Ave @ 36 St-Midtown Tunnel",
+        "area": "manhattan"
+    },
+    "166": {
+        "locale": "Central Park S @ Columbus Cr",
+        "area": "manhattan"
+    },
+    "168": {
+        "locale": "5 Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "169": {
+        "locale": "5 Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "170": {
+        "locale": "6 Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "171": {
+        "locale": "6 Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "172": {
+        "locale": "Baxter St @ Canal Street",
+        "area": "manhattan"
+    },
+    "173": {
+        "locale": "6 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "175": {
+        "locale": "Brooklyn Bridge @ Centre Street",
+        "area": "manhattan"
+    },
+    "176": {
+        "locale": "E 57 St @ QBB",
+        "area": "manhattan"
+    },
+    "177": {
+        "locale": "E 63 St @ QBB",
+        "area": "manhattan"
+    },
+    "178": {
+        "locale": "9 Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "179": {
+        "locale": "8 Ave @ Columbus Cr South",
+        "area": "manhattan"
+    },
+    "180": {
+        "locale": "8 Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "181": {
+        "locale": "8 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "182": {
+        "locale": "Dyer @ 42 Street",
+        "area": "manhattan"
+    },
+    "183": {
+        "locale": "FDR Dr @ Catherine Street",
+        "area": "manhattan"
+    },
+    "186": {
+        "locale": "FDR Dr @ 96 Street",
+        "area": "manhattan"
+    },
+    "187": {
+        "locale": "Broadway @ 46 Street",
+        "area": "manhattan"
+    },
+    "188": {
+        "locale": "FDR Dr @ 135 Street",
+        "area": "manhattan"
+    },
+    "192": {
+        "locale": "11 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "203": {
+        "locale": "Major Deegan Expy @ N of Alex Hamilton Bridge",
+        "area": "bronx"
+    },
+    "211": {
+        "locale": "West St @ Canal St",
+        "area": "manhattan"
+    },
+    "215": {
+        "locale": "Queens Plaza North @ 2811 (Westside)",
+        "area": "queens"
+    },
+    "223": {
+        "locale": "FDR Dr @ Old Slip",
+        "area": "manhattan"
+    },
+    "224": {
+        "locale": "Broadway @ 169 Street",
+        "area": "manhattan"
+    },
+    "229": {
+        "locale": "9 Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "233": {
+        "locale": "FDR Dr @ 155 Street",
+        "area": "manhattan"
+    },
+    "244": {
+        "locale": "Outerbridge Crossing @ Tyrellan Ave",
+        "area": "statenIsland"
+    },
+    "245": {
+        "locale": "SIE @ Clove Rd",
+        "area": "statenIsland"
+    },
+    "248": {
+        "locale": "Amsterdam @ 178 St",
+        "area": "manhattan"
+    },
+    "253": {
+        "locale": "FDR Dr @ 23 St",
+        "area": "manhattan"
+    },
+    "274": {
+        "locale": "FDR Dr @ 111 ST",
+        "area": "manhattan"
+    },
+    "277": {
+        "locale": "NE Thruway @ Conner St",
+        "area": "bronx"
+    },
+    "278": {
+        "locale": "Henry Hudson Pkwy @ 232 St",
+        "area": "bronx"
+    },
+    "281": {
+        "locale": "Cross Island Pkwy @ Bayside Marina",
+        "area": "queens"
+    },
+    "288": {
+        "locale": "Queens Blvd @ 51 St",
+        "area": "queens"
+    },
+    "290": {
+        "locale": "Northern Blvd @ 68 St",
+        "area": "queens"
+    },
+    "291": {
+        "locale": "Henry Hudson Pkwy @ 96 St",
+        "area": "manhattan"
+    },
+    "292": {
+        "locale": "West St @ Clarkson",
+        "area": "manhattan"
+    },
+    "294": {
+        "locale": "Macombs Dam Bridge",
+        "area": "bronx"
+    },
+    "298": {
+        "locale": "Triborough Bridge Bronx Bound",
+        "area": "bronx"
+    },
+    "299": {
+        "locale": "Triborough Bridge Queens Bound",
+        "area": "queens"
+    },
+    "301": {
+        "locale": "Triborough Bridges @ Manhattan Bound",
+        "area": "manhattan"
+    },
+    "302": {
+        "locale": "Whitestone @ Bronx Bound",
+        "area": "bronx"
+    },
+    "303": {
+        "locale": "Whitestone @ Queens Bound",
+        "area": "queens"
+    },
+    "304": {
+        "locale": "Throgs Neck Bridge @ Queens Bound",
+        "area": "queens"
+    },
+    "305": {
+        "locale": "Verrazano-Narrows @ Staten Island Bound",
+        "area": "statenIsland"
+    },
+    "306": {
+        "locale": "Verrazano-Narrows @ Brooklyn Bound",
+        "area": "brooklyn"
+    },
+    "307": {
+        "locale": "Henry Hudson @ North Bound",
+        "area": "bronx"
+    },
+    "308": {
+        "locale": "Henry Hudson @ South Bound",
+        "area": "manhattan"
+    },
+    "310": {
+        "locale": "Queens Midtown Tunnel @ Queens Side",
+        "area": "queens"
+    },
+    "311": {
+        "locale": "Brooklyn Battery Tunnel @ West Street",
+        "area": "manhattan"
+    },
+    "312": {
+        "locale": "Brooklyn-Battery Tunnel @ Brooklyn Side",
+        "area": "brooklyn"
+    },
+    "313": {
+        "locale": "Marine Parkway @ North Bound",
+        "area": "brooklyn"
+    },
+    "314": {
+        "locale": "Marine Parkway @ South Bound",
+        "area": "queens"
+    },
+    "318": {
+        "locale": "Fordham Rd and Grand Concourse",
+        "area": "bronx"
+    },
+    "319": {
+        "locale": "West Street @ Intrepid",
+        "area": "manhattan"
+    },
+    "321": {
+        "locale": "Bronx River Pkwy @ 233 ST",
+        "area": "bronx"
+    },
+    "328": {
+        "locale": "207 ST @ 9 Ave",
+        "area": "manhattan"
+    },
+    "338": {
+        "locale": "Water St @ Wall St",
+        "area": "manhattan"
+    },
+    "339": {
+        "locale": "Water St @ John St",
+        "area": "manhattan"
+    },
+    "340": {
+        "locale": "Victory Blvd WOF Campus Dr",
+        "area": "statenIsland"
+    },
+    "344": {
+        "locale": "South St @ Broad St",
+        "area": "manhattan"
+    },
+    "358": {
+        "locale": "Hylan Blvd @ New Dorp Lane",
+        "area": "statenIsland"
+    },
+    "360": {
+        "locale": "1 Ave @ 124 St",
+        "area": "manhattan"
+    },
+    "361": {
+        "locale": "1 Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "366": {
+        "locale": "2 Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "368": {
+        "locale": "1 Ave @ 110 St",
+        "area": "manhattan"
+    },
+    "370": {
+        "locale": "1 Ave @ 86 St",
+        "area": "manhattan"
+    },
+    "391": {
+        "locale": "Van Wyck Expy @ S Conduit Ave LL",
+        "area": "queens"
+    },
+    "398": {
+        "locale": "3 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "399": {
+        "locale": "3 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "400": {
+        "locale": "3 Ave @ 59 St",
+        "area": "manhattan"
+    },
+    "401": {
+        "locale": "West St @ Murray",
+        "area": "manhattan"
+    },
+    "402": {
+        "locale": "Northern Blvd @ 97 St",
+        "area": "queens"
+    },
+    "403": {
+        "locale": "3 AVE @ 34 ST",
+        "area": "manhattan"
+    },
+    "404": {
+        "locale": "Lexington Ave @ 57 ST",
+        "area": "manhattan"
+    },
+    "406": {
+        "locale": "MADISON @ 34 ST",
+        "area": "manhattan"
+    },
+    "407": {
+        "locale": "MADISON @ 57 ST",
+        "area": "manhattan"
+    },
+    "409": {
+        "locale": "5 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "410": {
+        "locale": "3 Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "412": {
+        "locale": "Lexington Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "413": {
+        "locale": "Lexington Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "414": {
+        "locale": "6 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "415": {
+        "locale": "5 Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "416": {
+        "locale": "7 Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "419": {
+        "locale": "Park Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "420": {
+        "locale": "8 Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "421": {
+        "locale": "Broadway @ 51 St",
+        "area": "manhattan"
+    },
+    "424": {
+        "locale": "Sands St @ Brooklyn Bridge Ent",
+        "area": "brooklyn"
+    },
+    "425": {
+        "locale": "Sands St @ BQE Ent",
+        "area": "brooklyn"
+    },
+    "426": {
+        "locale": "Pearl St @ Dover",
+        "area": "manhattan"
+    },
+    "427": {
+        "locale": "Pearl Street @ St. James Pl",
+        "area": "manhattan"
+    },
+    "430": {
+        "locale": "RT. 9A @ N. Moore St",
+        "area": "manhattan"
+    },
+    "431": {
+        "locale": "Worth Street @ W. Broadway",
+        "area": "manhattan"
+    },
+    "432": {
+        "locale": "Worth Street @ Lafayette Street",
+        "area": "manhattan"
+    },
+    "433": {
+        "locale": "Worth Street @ Bowery",
+        "area": "manhattan"
+    },
+    "434": {
+        "locale": "Canal Street @ Chrystie Street",
+        "area": "manhattan"
+    },
+    "435": {
+        "locale": "Canal Street @ Allen Street",
+        "area": "manhattan"
+    },
+    "436": {
+        "locale": "FDR Dr @ Brooklyn Bridge Exit SB",
+        "area": "manhattan"
+    },
+    "437": {
+        "locale": "FDR Dr @ Brooklyn Bridge Exit NB",
+        "area": "manhattan"
+    },
+    "438": {
+        "locale": "South Street @ Pike Street",
+        "area": "manhattan"
+    },
+    "439": {
+        "locale": "Flatbush Ave @ Tillary St",
+        "area": "brooklyn"
+    },
+    "440": {
+        "locale": "Flatbush Ave @ Willoughby",
+        "area": "brooklyn"
+    },
+    "443": {
+        "locale": "Belt Pkwy @ Brookville Blvd",
+        "area": "queens"
+    },
+    "446": {
+        "locale": "Montgomergy @ South St",
+        "area": "manhattan"
+    },
+    "448": {
+        "locale": "Clearview Expy @ 26th Ave",
+        "area": "queens"
+    },
+    "449": {
+        "locale": "Clearview Expy @ 35 St",
+        "area": "queens"
+    },
+    "450": {
+        "locale": "Cross Island Expy @ 14 Ave",
+        "area": "queens"
+    },
+    "451": {
+        "locale": "West Shore Expy @ Arden Ave",
+        "area": "statenIsland"
+    },
+    "452": {
+        "locale": "Brooklyn Bridge - Ped Walk Way",
+        "area": "manhattan"
+    },
+    "454": {
+        "locale": "WBB-2 @ NOR Bklyn-Driggs",
+        "area": "brooklyn"
+    },
+    "455": {
+        "locale": "WBB-4 @ NOR Bklyn-Mid Span",
+        "area": "brooklyn"
+    },
+    "456": {
+        "locale": "WBB-6 @ Delancy-Clinton",
+        "area": "brooklyn"
+    },
+    "458": {
+        "locale": "WBB-18 @ SOR Cntr Span",
+        "area": "brooklyn"
+    },
+    "459": {
+        "locale": "MHB-16 Manhattan Colonade Entr",
+        "area": "brooklyn"
+    },
+    "461": {
+        "locale": "WBB-20 @ MidSpan",
+        "area": "manhattan"
+    },
+    "462": {
+        "locale": "WBB-21 @ SOR Manh Appr",
+        "area": "manhattan"
+    },
+    "464": {
+        "locale": "WBB-23 @ N Manh Twr",
+        "area": "manhattan"
+    },
+    "466": {
+        "locale": "MHB-20 Mahn S URW @ Anch",
+        "area": "manhattan"
+    },
+    "467": {
+        "locale": "MHB-25 Manh S URW @ Twr Walkwy",
+        "area": "manhattan"
+    },
+    "470": {
+        "locale": "MHB-31 Bklyn N URW @ Anch",
+        "area": "brooklyn"
+    },
+    "471": {
+        "locale": "MHB-33 Bklyn LRW @ Ex Ramp",
+        "area": "brooklyn"
+    },
+    "472": {
+        "locale": "2 Ave @ 58 St",
+        "area": "manhattan"
+    },
+    "473": {
+        "locale": "6 Ave @ 58 St",
+        "area": "manhattan"
+    },
+    "474": {
+        "locale": "Sutton Pl @ 58 St",
+        "area": "manhattan"
+    },
+    "475": {
+        "locale": "Broadway @ 42 St",
+        "area": "manhattan"
+    },
+    "476": {
+        "locale": "QBB SOR @ 1 Ave",
+        "area": "manhattan"
+    },
+    "478": {
+        "locale": "QBB NOR @ York Ave",
+        "area": "manhattan"
+    },
+    "479": {
+        "locale": "QBB UL CM @ York Ave",
+        "area": "manhattan"
+    },
+    "480": {
+        "locale": "QBB LL CM @ W Channel",
+        "area": "manhattan"
+    },
+    "481": {
+        "locale": "QBB UL CM @ Roosevelt",
+        "area": "manhattan"
+    },
+    "482": {
+        "locale": "QBB UL @ Queens Pier",
+        "area": "queens"
+    },
+    "483": {
+        "locale": "QBB LL CM @ 11 St",
+        "area": "queens"
+    },
+    "484": {
+        "locale": "QBB Uramp @ 23 St",
+        "area": "queens"
+    },
+    "485": {
+        "locale": "QBB @ Crescent St",
+        "area": "queens"
+    },
+    "487": {
+        "locale": "Flatbush Ave and 4 Ave",
+        "area": "brooklyn"
+    },
+    "488": {
+        "locale": "Flatbush Ave and Atlantic Ave",
+        "area": "brooklyn"
+    },
+    "489": {
+        "locale": "7 Ave @ 43 St",
+        "area": "manhattan"
+    },
+    "491": {
+        "locale": "Atlantic Ave @ Boerum St",
+        "area": "brooklyn"
+    },
+    "492": {
+        "locale": "Atlantic Ave @ BQE",
+        "area": "brooklyn"
+    },
+    "493": {
+        "locale": "Flatbush Ave@ 6 Ave",
+        "area": "brooklyn"
+    },
+    "495": {
+        "locale": "3 Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "498": {
+        "locale": "Queens Blvd Mid Span of QBB",
+        "area": "queens"
+    },
+    "500": {
+        "locale": "8th Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "501": {
+        "locale": "7 Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "502": {
+        "locale": "9 Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "503": {
+        "locale": "8 Ave @ 14 St",
+        "area": "manhattan"
+    },
+    "504": {
+        "locale": "7 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "505": {
+        "locale": "Columbus St @ 65 St",
+        "area": "manhattan"
+    },
+    "506": {
+        "locale": "9 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "507": {
+        "locale": "9 Ave @ 37 St",
+        "area": "manhattan"
+    },
+    "508": {
+        "locale": "9 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "509": {
+        "locale": "6 Ave @ 14 St",
+        "area": "manhattan"
+    },
+    "510": {
+        "locale": "7 Ave @ 23St",
+        "area": "manhattan"
+    },
+    "511": {
+        "locale": "6 Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "512": {
+        "locale": "Greenwich St @ Morris St",
+        "area": "manhattan"
+    },
+    "516": {
+        "locale": "Grand St @ Broadway",
+        "area": "manhattan"
+    },
+    "517": {
+        "locale": "Grand St @ Essex St",
+        "area": "manhattan"
+    },
+    "519": {
+        "locale": "Grand St @ Allen St",
+        "area": "manhattan"
+    },
+    "521": {
+        "locale": "Lenox Ave @ 135 St",
+        "area": "manhattan"
+    },
+    "522": {
+        "locale": "Madison Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "523": {
+        "locale": "5 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "524": {
+        "locale": "CPW @ 96 St",
+        "area": "manhattan"
+    },
+    "526": {
+        "locale": "Amsterdam @ 72 St",
+        "area": "manhattan"
+    },
+    "527": {
+        "locale": "Amsterdam @ 86 St",
+        "area": "manhattan"
+    },
+    "528": {
+        "locale": "Madison Ave @ 49 St",
+        "area": "manhattan"
+    },
+    "529": {
+        "locale": "7 Ave @ 145 St",
+        "area": "manhattan"
+    },
+    "530": {
+        "locale": "Lenox Ave @ 125 St",
+        "area": "manhattan"
+    },
+    "531": {
+        "locale": "Park Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "532": {
+        "locale": "St Nicholas Ave @ 145 St",
+        "area": "manhattan"
+    },
+    "535": {
+        "locale": "Union Sq @ 14 St",
+        "area": "manhattan"
+    },
+    "536": {
+        "locale": "Madison Ave @ 96 St",
+        "area": "manhattan"
+    },
+    "537": {
+        "locale": "1 Ave @ 96 St",
+        "area": "manhattan"
+    },
+    "540": {
+        "locale": "Lexington Ave @ 72 St",
+        "area": "manhattan"
+    },
+    "541": {
+        "locale": "Lexington Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "542": {
+        "locale": "Lexington Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "543": {
+        "locale": "12 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "544": {
+        "locale": "12 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "545": {
+        "locale": "12 Ave @ 34 St",
+        "area": "manhattan"
+    },
+    "547": {
+        "locale": "12 Ave @ 22 St",
+        "area": "manhattan"
+    },
+    "548": {
+        "locale": "12 Ave @ 14 St",
+        "area": "manhattan"
+    },
+    "550": {
+        "locale": "1 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "551": {
+        "locale": "2 Ave @ 42 St",
+        "area": "manhattan"
+    },
+    "552": {
+        "locale": "Park Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "554": {
+        "locale": "Henry Hudson @ 158 St",
+        "area": "manhattan"
+    },
+    "558": {
+        "locale": "Henry Hudson @ 137 St",
+        "area": "manhattan"
+    },
+    "562": {
+        "locale": "Van Wyck Expwy @ 133 Ave SB",
+        "area": "queens"
+    },
+    "568": {
+        "locale": "Van Wyck Expwy @ Alwick Rd SB",
+        "area": "queens"
+    },
+    "572": {
+        "locale": "Prospect Expy @ Caton Ave",
+        "area": "brooklyn"
+    },
+    "573": {
+        "locale": "Prospect Expy @ Fort Hamilton Pkwy",
+        "area": "brooklyn"
+    },
+    "574": {
+        "locale": "Van Wyck Expwy @ Rockaway Blvd.",
+        "area": "queens"
+    },
+    "575": {
+        "locale": "Van Wyck Expwy @ Foch Blvd. SB",
+        "area": "queens"
+    },
+    "577": {
+        "locale": "Prospect Expy @ 9 Ave",
+        "area": "brooklyn"
+    },
+    "578": {
+        "locale": "Prospect Expy @ 7 Ave",
+        "area": "brooklyn"
+    },
+    "580": {
+        "locale": "Prospect Expy @ 6 Ave",
+        "area": "brooklyn"
+    },
+    "581": {
+        "locale": "Van Wyck Expwy @ 109 Ave",
+        "area": "queens"
+    },
+    "582": {
+        "locale": "Van Wyck Expwy @ 101 Ave NB",
+        "area": "queens"
+    },
+    "584": {
+        "locale": "Van Wyck Expwy @ 101 Ave SB",
+        "area": "queens"
+    },
+    "585": {
+        "locale": "Van Wyck Expwy @ Atlantic Ave",
+        "area": "queens"
+    },
+    "586": {
+        "locale": "Van Wyck Expwy @ 91 Ave",
+        "area": "queens"
+    },
+    "587": {
+        "locale": "Van Wyck Expwy @ Hillside Ave",
+        "area": "queens"
+    },
+    "590": {
+        "locale": "Van Wyck Expwy @ 87 Ave",
+        "area": "queens"
+    },
+    "596": {
+        "locale": "Van Wyck Expwy @ 67 Rd",
+        "area": "queens"
+    },
+    "597": {
+        "locale": "Van Wyck Expwy @ LIE",
+        "area": "queens"
+    },
+    "599": {
+        "locale": "Van Wyck Expwy @ College Point Blvd.",
+        "area": "queens"
+    },
+    "601": {
+        "locale": "Whitestone Expwy @ 25 Rd (Median)",
+        "area": "queens"
+    },
+    "602": {
+        "locale": "Whitestone Expwy @ 14 Ave (Median)",
+        "area": "queens"
+    },
+    "604": {
+        "locale": "Grand Central Pkwy @ 37 Street",
+        "area": "queens"
+    },
+    "606": {
+        "locale": "Grand Central Pkwy @ 46 street",
+        "area": "queens"
+    },
+    "607": {
+        "locale": "Grand Central Pkwy @ 72 Street",
+        "area": "queens"
+    },
+    "608": {
+        "locale": "Grand Central Pkwy @ 75 Street",
+        "area": "queens"
+    },
+    "613": {
+        "locale": "MLK Jr. Expwy @ Watchogue Rd",
+        "area": "statenIsland"
+    },
+    "618": {
+        "locale": "MLK Jr. Expwy @ Forest Ave.",
+        "area": "statenIsland"
+    },
+    "621": {
+        "locale": "MLK Jr. Expwy @ Walker Street",
+        "area": "statenIsland"
+    },
+    "623": {
+        "locale": "Korean War Veterans Pkwy @ Tyrellan Ave",
+        "area": "statenIsland"
+    },
+    "625": {
+        "locale": "Korean War Vetrans Pkwy @ Bloomingdale Rd",
+        "area": "statenIsland"
+    },
+    "626": {
+        "locale": "West Shore Expwy @ Englewood Ave",
+        "area": "statenIsland"
+    },
+    "628": {
+        "locale": "West Shore Expwy @ Woodrow Rd",
+        "area": "statenIsland"
+    },
+    "629": {
+        "locale": "West Shore Expwy @ Fresh Kills Creek",
+        "area": "statenIsland"
+    },
+    "631": {
+        "locale": "West Shore Expwy @ Victory Blvd",
+        "area": "statenIsland"
+    },
+    "633": {
+        "locale": "West Shore Expwy @ Meredith Blvd.",
+        "area": "statenIsland"
+    },
+    "636": {
+        "locale": "West Shore Expwy @ Edward Curry Ave",
+        "area": "statenIsland"
+    },
+    "638": {
+        "locale": "Staten Island Expwy @ Forest Ave",
+        "area": "statenIsland"
+    },
+    "639": {
+        "locale": "Staten Island Expwy @ W of South Ave",
+        "area": "statenIsland"
+    },
+    "641": {
+        "locale": "Staten Island Expwy @ Richmond Ave",
+        "area": "statenIsland"
+    },
+    "642": {
+        "locale": "Staten Island Expwy @ SIE/MLK Interchange",
+        "area": "statenIsland"
+    },
+    "643": {
+        "locale": "Long Island Expy @ 27th St",
+        "area": "queens"
+    },
+    "644": {
+        "locale": "Staten Island Expwy @ Victory Blvd.",
+        "area": "statenIsland"
+    },
+    "645": {
+        "locale": "Staten Island Expwy @ Bradley Ave",
+        "area": "statenIsland"
+    },
+    "646": {
+        "locale": "Long Island Expy @ Greenpoint Ave",
+        "area": "queens"
+    },
+    "648": {
+        "locale": "Long Island Expy ramp to W/B BQE",
+        "area": "queens"
+    },
+    "649": {
+        "locale": "Long Island Expy @ ramp to W/B BQE",
+        "area": "queens"
+    },
+    "650": {
+        "locale": "Long Island Expy @ 48 St UL",
+        "area": "queens"
+    },
+    "651": {
+        "locale": "Long Island Expy @ 48th St LL",
+        "area": "queens"
+    },
+    "652": {
+        "locale": "Long Island Expy btwn 50 St - 58th St",
+        "area": "queens"
+    },
+    "653": {
+        "locale": "Long Island Expy @ Grand Avenue",
+        "area": "queens"
+    },
+    "654": {
+        "locale": "Long Island Expy @ 75 St",
+        "area": "queens"
+    },
+    "655": {
+        "locale": "Long Island Expy @ 84 St",
+        "area": "queens"
+    },
+    "657": {
+        "locale": "Long Island Expy @ Grand Central Pkwy",
+        "area": "queens"
+    },
+    "659": {
+        "locale": "Long Island Expy @ Kissena Blvd",
+        "area": "queens"
+    },
+    "660": {
+        "locale": "Long Island Expy @ 163rd St",
+        "area": "queens"
+    },
+    "666": {
+        "locale": "Long Island Expy @ 58th St LL",
+        "area": "queens"
+    },
+    "674": {
+        "locale": "CVE02 NB at 64th Ave",
+        "area": "queens"
+    },
+    "675": {
+        "locale": "CVE03 SB at 56th Ave",
+        "area": "queens"
+    },
+    "676": {
+        "locale": "CVE04 SB at 48th Ave",
+        "area": "queens"
+    },
+    "677": {
+        "locale": "VWE01 SB at 134th St - Ex19",
+        "area": "queens"
+    },
+    "678": {
+        "locale": "VWE08 NB at Foch Blvd - Ex2",
+        "area": "queens"
+    },
+    "682": {
+        "locale": "WSE03 SB at Bloomingdale Rd-Ex3",
+        "area": "statenIsland"
+    },
+    "684": {
+        "locale": "WSE06 NB at Muldoon Ave - Ex5",
+        "area": "statenIsland"
+    },
+    "686": {
+        "locale": "BRE05 WB at Castle Hill Ave Ex52",
+        "area": "bronx"
+    },
+    "689": {
+        "locale": "FDR Dr @ 38 St",
+        "area": "manhattan"
+    },
+    "690": {
+        "locale": "FDR Dr @ 90 St",
+        "area": "manhattan"
+    },
+    "691": {
+        "locale": "FDR Dr @ 79 St",
+        "area": "manhattan"
+    },
+    "692": {
+        "locale": "FDR Dr @ 73 St",
+        "area": "manhattan"
+    },
+    "696": {
+        "locale": "Cross Bay Blvd @ 20 Rd",
+        "area": "queens"
+    },
+    "699": {
+        "locale": "Belt Pkwy @ 158 St",
+        "area": "brooklyn"
+    },
+    "700": {
+        "locale": "Cross Bay Blvd @ North Channel Bridge",
+        "area": "queens"
+    },
+    "702": {
+        "locale": "West Shore Expy @ Victory Blvd",
+        "area": "statenIsland"
+    },
+    "703": {
+        "locale": "Cross Bay Blvd @ 157 Ave",
+        "area": "brooklyn"
+    },
+    "705": {
+        "locale": "Cross Bay Blvd @ Rockaway Blvd",
+        "area": "brooklyn"
+    },
+    "706": {
+        "locale": "Cross Bay Blvd @ Wildlife Refuge",
+        "area": "brooklyn"
+    },
+    "707": {
+        "locale": "Ocean Pkwy @ Ave U",
+        "area": "brooklyn"
+    },
+    "708": {
+        "locale": "Woodhaven Blvd @ Jamaica Ave",
+        "area": "queens"
+    },
+    "709": {
+        "locale": "Woodhaven Blvd @ Union Tpke",
+        "area": "queens"
+    },
+    "711": {
+        "locale": "BQE E/B Ent. Ramp @ Broadway",
+        "area": "queens"
+    },
+    "712": {
+        "locale": "LIE @ Marathon Pkwy",
+        "area": "queens"
+    },
+    "713": {
+        "locale": "GCP @ LGA 94 St Exit",
+        "area": "queens"
+    },
+    "714": {
+        "locale": "Rockaway Blvd @ Division St",
+        "area": "queens"
+    },
+    "716": {
+        "locale": "West Houston @ Hudson St",
+        "area": "manhattan"
+    },
+    "717": {
+        "locale": "6 Ave @ West Houston St",
+        "area": "manhattan"
+    },
+    "718": {
+        "locale": "West Broadway @ West Houston St",
+        "area": "manhattan"
+    },
+    "720": {
+        "locale": "Houston St @ Bowery St",
+        "area": "manhattan"
+    },
+    "721": {
+        "locale": "Houston St @ Christies St",
+        "area": "manhattan"
+    },
+    "722": {
+        "locale": "Houston St @ Broadway",
+        "area": "manhattan"
+    },
+    "723": {
+        "locale": "Ocean Pkwy @ Ave I",
+        "area": "brooklyn"
+    },
+    "724": {
+        "locale": "Ocean Pkwy @ Ditmas Ave",
+        "area": "brooklyn"
+    },
+    "725": {
+        "locale": "West Houston @ Varick St",
+        "area": "manhattan"
+    },
+    "726": {
+        "locale": "Queens Blvd @ Jackson Ave",
+        "area": "queens"
+    },
+    "727": {
+        "locale": "Queens Plz S @ 27 St",
+        "area": "queens"
+    },
+    "728": {
+        "locale": "Queens Blvd @ Skillman",
+        "area": "queens"
+    },
+    "730": {
+        "locale": "Bruckner Blvd @ Lincoln Ave",
+        "area": "bronx"
+    },
+    "731": {
+        "locale": "FDR @ Grand St",
+        "area": "manhattan"
+    },
+    "732": {
+        "locale": "FDR @ E 6 St",
+        "area": "manhattan"
+    },
+    "733": {
+        "locale": "FDR @ E 53 St",
+        "area": "manhattan"
+    },
+    "734": {
+        "locale": "FDR @ E 127 St",
+        "area": "manhattan"
+    },
+    "735": {
+        "locale": "FDR @ 48 St",
+        "area": "manhattan"
+    },
+    "736": {
+        "locale": "FDR @ Jackson St",
+        "area": "manhattan"
+    },
+    "737": {
+        "locale": "Queens Plaza N @ Northern Blvd",
+        "area": "queens"
+    },
+    "738": {
+        "locale": "Northern Blvd @ Honeywell Bridge",
+        "area": "queens"
+    },
+    "739": {
+        "locale": "Broadway @ 96 St",
+        "area": "manhattan"
+    },
+    "740": {
+        "locale": "St Nicholas Ave @ 125 St",
+        "area": "manhattan"
+    },
+    "741": {
+        "locale": "Amsterdam Ave @ 125 St",
+        "area": "manhattan"
+    },
+    "743": {
+        "locale": "Springfield Blvd @ Merrick Blvd",
+        "area": "queens"
+    },
+    "744": {
+        "locale": "Springfield Ave @ Jamaica Ave",
+        "area": "queens"
+    },
+    "745": {
+        "locale": "Union tpke @ Little Neck Pkwy",
+        "area": "queens"
+    },
+    "746": {
+        "locale": "Northern Blvd @ Little Neck Pkwy",
+        "area": "queens"
+    },
+    "788": {
+        "locale": "Hillside Ave @ Little Neck Pkwy",
+        "area": "queens"
+    },
+    "789": {
+        "locale": "1 Ave @ E 14 St",
+        "area": "manhattan"
+    },
+    "790": {
+        "locale": "East Houston St @ Ave B",
+        "area": "manhattan"
+    },
+    "791": {
+        "locale": "East Houston St @ Ave D",
+        "area": "manhattan"
+    },
+    "792": {
+        "locale": "Woodhaven Blvd @ Myrtle Ave",
+        "area": "queens"
+    },
+    "793": {
+        "locale": "Ocean Pkwy @ Church Ave",
+        "area": "brooklyn"
+    },
+    "794": {
+        "locale": "2 Ave @ 23 St",
+        "area": "manhattan"
+    },
+    "795": {
+        "locale": "FDR @ 120 St",
+        "area": "manhattan"
+    },
+    "796": {
+        "locale": "Woodhaven Blvd @ Furmanville Ave",
+        "area": "queens"
+    },
+    "798": {
+        "locale": "MHB-30 @ BRK S URW @ TWR Walk Way",
+        "area": "manhattan"
+    },
+    "801": {
+        "locale": "MHB-22 Manh N URDWY @ Twr",
+        "area": "manhattan"
+    },
+    "802": {
+        "locale": "MHB-23 Manh LRDWY @ Twr",
+        "area": "manhattan"
+    },
+    "803": {
+        "locale": "MHB-24 Manh S URDWY @ Twr",
+        "area": "manhattan"
+    },
+    "805": {
+        "locale": "Harlem Rvr Dr (FDR) @ 166 St",
+        "area": "manhattan"
+    },
+    "806": {
+        "locale": "MHB-27 Bklyn N URDWY @ Twr",
+        "area": "manhattan"
+    },
+    "807": {
+        "locale": "MHB-28 Bklyn LRDW @ Twr",
+        "area": "manhattan"
+    },
+    "808": {
+        "locale": "MHB-29 Brklyn S URDWY @ Twr",
+        "area": "manhattan"
+    },
+    "809": {
+        "locale": "MHB-26 BKLYN N UPRDW @ TWR - Bikeway",
+        "area": "manhattan"
+    },
+    "810": {
+        "locale": "E 149 St @ River Ave",
+        "area": "bronx"
+    },
+    "811": {
+        "locale": "Macombs Dam Bridge @ E 161 St",
+        "area": "bronx"
+    },
+    "812": {
+        "locale": "Grand Concourse @ 161 St",
+        "area": "bronx"
+    },
+    "813": {
+        "locale": "MHB-17 Manh LRW @ X OVER",
+        "area": "manhattan"
+    },
+    "814": {
+        "locale": "MHB-18 Manh LRW @ EOF X Over",
+        "area": "manhattan"
+    },
+    "815": {
+        "locale": "Beach Channel Dr @B 140 St",
+        "area": "queens"
+    },
+    "816": {
+        "locale": "Beach Channel Dr @B 101 St",
+        "area": "queens"
+    },
+    "818": {
+        "locale": "Beach Channel Dr @B 32 St",
+        "area": "queens"
+    },
+    "821": {
+        "locale": "MHB -19 Manh N URDW @ Anch",
+        "area": "manhattan"
+    },
+    "822": {
+        "locale": "MHB-32 Bklyn S URDW @ Anch",
+        "area": "manhattan"
+    },
+    "823": {
+        "locale": "Exterior St @ E 138 St",
+        "area": "bronx"
+    },
+    "824": {
+        "locale": "Exterior St @ 3 Ave",
+        "area": "bronx"
+    },
+    "825": {
+        "locale": "Grand Concourse @ E 149 St",
+        "area": "bronx"
+    },
+    "826": {
+        "locale": "Third Ave Bridge",
+        "area": "bronx"
+    },
+    "827": {
+        "locale": "11 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "828": {
+        "locale": "10 Ave @ 57 St",
+        "area": "manhattan"
+    },
+    "829": {
+        "locale": "Farmers Blvd @ 147 Ave @ 175 St",
+        "area": "queens"
+    },
+    "830": {
+        "locale": "Rockaway Blvd @ Van Wyck Expy W S/R",
+        "area": "queens"
+    },
+    "831": {
+        "locale": "Rockaway Blvd @ Van Wyck Expy E S/R",
+        "area": "queens"
+    },
+    "833": {
+        "locale": "Rockaway Blvd @ Baisley Blvd",
+        "area": "queens"
+    },
+    "834": {
+        "locale": "S Conduit Ave @ 150 St",
+        "area": "queens"
+    },
+    "835": {
+        "locale": "Farmers Blvd @ N Conduit Ave",
+        "area": "queens"
+    },
+    "836": {
+        "locale": "Rockaway Blvd @ Guy Brewer Blvd",
+        "area": "queens"
+    },
+    "837": {
+        "locale": "Rockaway Blvd @ Brookville Blvd",
+        "area": "queens"
+    },
+    "838": {
+        "locale": "Grand St @ Bowery",
+        "area": "manhattan"
+    },
+    "839": {
+        "locale": "Flatbush Ave @ Aviator Sports & Golf Club",
+        "area": "brooklyn"
+    },
+    "840": {
+        "locale": "Ft Washinton @ 179 St",
+        "area": "manhattan"
+    },
+    "841": {
+        "locale": "Ft Washington @ 178 St",
+        "area": "manhattan"
+    },
+    "842": {
+        "locale": "Rockaway Blvd @ S. Conduit Ave",
+        "area": "queens"
+    },
+    "843": {
+        "locale": "Rockaway Blvd @ Farmers Blvd",
+        "area": "queens"
+    },
+    "844": {
+        "locale": "Flatbush Ave @ Fillmore Ave",
+        "area": "brooklyn"
+    },
+    "845": {
+        "locale": "3 Ave @ E 14 St",
+        "area": "manhattan"
+    },
+    "846": {
+        "locale": "2 Ave @ E 14 St",
+        "area": "manhattan"
+    },
+    "848": {
+        "locale": "Northern Blvd @ 108 St",
+        "area": "queens"
+    },
+    "849": {
+        "locale": "Northern Blvd @ 114 St",
+        "area": "queens"
+    },
+    "850": {
+        "locale": "Hylan Blvd @ Seaview Ave",
+        "area": "statenIsland"
+    },
+    "851": {
+        "locale": "Ocean Pkwy @ Surf Av @ Sea Breeze Ave",
+        "area": "brooklyn"
+    },
+    "852": {
+        "locale": "Ocean Pkwy @ Ave X",
+        "area": "brooklyn"
+    },
+    "853": {
+        "locale": "Ocean Pkwy @ Kings Hwy",
+        "area": "brooklyn"
+    },
+    "855": {
+        "locale": "Seagirt Blvd @ B 9 St",
+        "area": "queens"
+    },
+    "856": {
+        "locale": "Stillwell Ave @ Surf Ave",
+        "area": "brooklyn"
+    },
+    "857": {
+        "locale": "Stillwell Ave @ Neptune Ave",
+        "area": "brooklyn"
+    },
+    "858": {
+        "locale": "Hylan Blvd @ Richmond Ave",
+        "area": "statenIsland"
+    },
+    "859": {
+        "locale": "Hylan Blvd @ Guyon Ave",
+        "area": "statenIsland"
+    },
+    "860": {
+        "locale": "Hylan Blvd @ Huguenot Ave",
+        "area": "statenIsland"
+    },
+    "861": {
+        "locale": "Hylan Blvd @ Arden Ave",
+        "area": "statenIsland"
+    },
+    "862": {
+        "locale": "Hylan Ave @ Page Ave",
+        "area": "statenIsland"
+    },
+    "863": {
+        "locale": "Hylan Blvd @ Seguine Ave",
+        "area": "statenIsland"
+    },
+    "864": {
+        "locale": "Hylan Blvd @ Midland Ave",
+        "area": "statenIsland"
+    },
+    "866": {
+        "locale": "Pelham Pkwy @ Stillwell Ave",
+        "area": "bronx"
+    },
+    "868": {
+        "locale": "Queens Blvd @ 39 ST",
+        "area": "queens"
+    },
+    "869": {
+        "locale": "MHB-16 Manh Colonade Entr",
+        "area": "manhattan"
+    },
+    "870": {
+        "locale": "MHB-16A Manh East of Colonnade Entr",
+        "area": "manhattan"
+    },
+    "871": {
+        "locale": "Hamilton Ave @ Hamilton Pl @ 15 St (N SR)",
+        "area": "brooklyn"
+    },
+    "872": {
+        "locale": "Hamilton Ave @ Hamilton PL @ 15 St (S SR)",
+        "area": "brooklyn"
+    },
+    "873": {
+        "locale": "College Point Blvd @ 35 Ave",
+        "area": "queens"
+    },
+    "874": {
+        "locale": "College Point Blvd @ Roosevelt Ave",
+        "area": "queens"
+    },
+    "875": {
+        "locale": "College Point Blvd @ Sanford Ave",
+        "area": "queens"
+    },
+    "876": {
+        "locale": "Flatbush Ave @ Ave U",
+        "area": "brooklyn"
+    },
+    "877": {
+        "locale": "Flatbush Ave @ Kings Hwy",
+        "area": "brooklyn"
+    },
+    "878": {
+        "locale": "Flatbush Ave @ Marine Park",
+        "area": "brooklyn"
+    },
+    "879": {
+        "locale": "Hylan Blvd @ West Fingerboard Rd & Sand Ln",
+        "area": "statenIsland"
+    },
+    "880": {
+        "locale": "Northern Blvd @ 51 St",
+        "area": "queens"
+    },
+    "881": {
+        "locale": "Northern Blvd @ Parsons Blvd",
+        "area": "queens"
+    },
+    "882": {
+        "locale": "Northern Blvd @ Union St",
+        "area": "queens"
+    },
+    "883": {
+        "locale": "Pelham Pkwy E/B @ Boston Rd",
+        "area": "bronx"
+    },
+    "885": {
+        "locale": "Pelham Shore Rd @ City Island Rd",
+        "area": "bronx"
+    },
+    "887": {
+        "locale": "QBB SOR @ Sutton Pl",
+        "area": "queens"
+    },
+    "888": {
+        "locale": "QBB SOR @ W Channel",
+        "area": "queens"
+    },
+    "892": {
+        "locale": "QBB LL CM @ East Channel",
+        "area": "queens"
+    },
+    "893": {
+        "locale": "QBB LL CM @ York Ave",
+        "area": "manhattan"
+    },
+    "894": {
+        "locale": "LIE @ College Point Blvd",
+        "area": "queens"
+    },
+    "895": {
+        "locale": "Henry Hudson Pkwy @ 70 St",
+        "area": "manhattan"
+    },
+    "897": {
+        "locale": "Jackie Robinson Pkwy @ Queens Blvd",
+        "area": "queens"
+    },
+    "898": {
+        "locale": "QBB NOR @ W Channel",
+        "area": "manhattan"
+    },
+    "899": {
+        "locale": "Broadway @ 43 St",
+        "area": "manhattan"
+    },
+    "900": {
+        "locale": "Kissena Blvd @ Holly Ave",
+        "area": "queens"
+    },
+    "901": {
+        "locale": "Stillwell Ave @ 86 St",
+        "area": "brooklyn"
+    },
+    "902": {
+        "locale": "Kissena Blvd @ LIE N S/R",
+        "area": "queens"
+    },
+    "903": {
+        "locale": "Main St @ LIE N S/R",
+        "area": "queens"
+    },
+    "904": {
+        "locale": "Main St @ Roosevelt Ave",
+        "area": "queens"
+    },
+    "905": {
+        "locale": "Woodhaven Blvd @ Dry Harbor Rd",
+        "area": "queens"
+    },
+    "906": {
+        "locale": "5 Ave @ 65 St",
+        "area": "manhattan"
+    },
+    "907": {
+        "locale": "5 Ave @ 66 St",
+        "area": "manhattan"
+    },
+    "908": {
+        "locale": "5 Ave @ 96 St",
+        "area": "manhattan"
+    },
+    "909": {
+        "locale": "Park Ave @ 72 St",
+        "area": "manhattan"
+    },
+    "910": {
+        "locale": "Park Ave @ 96 St",
+        "area": "manhattan"
+    },
+    "912": {
+        "locale": "Old Fulton St @ Furman St",
+        "area": "brooklyn"
+    },
+    "914": {
+        "locale": "Washington St @ Prospect St",
+        "area": "brooklyn"
+    },
+    "915": {
+        "locale": "Cadman Plz E/Washington St @ Prospect St",
+        "area": "bronx"
+    },
+    "916": {
+        "locale": "Jackie Robinson Pkwy @ Metropolitan Ave",
+        "area": "queens"
+    },
+    "921": {
+        "locale": "Queens Blvd @ 39 St - East",
+        "area": "queens"
+    },
+    "922": {
+        "locale": "QBB UL Entrance @ Thomson Ave",
+        "area": "manhattan"
+    },
+    "924": {
+        "locale": "Beach Channel Dr @ Beach 116 St",
+        "area": "bronx"
+    },
+    "925": {
+        "locale": "Northern Blvd @ Main St",
+        "area": "queens"
+    },
+    "927": {
+        "locale": "Main St @ Sanford Ave",
+        "area": "queens"
+    },
+    "928": {
+        "locale": "QBB NOR @ 1 Ave",
+        "area": "manhattan"
+    },
+    "929": {
+        "locale": "FDR Dr @ Old Slip",
+        "area": "manhattan"
+    },
+    "930": {
+        "locale": "FDR Dr @ 10 St",
+        "area": "manhattan"
+    },
+    "931": {
+        "locale": "Columbus Ave @ 90 St",
+        "area": "manhattan"
+    },
+    "932": {
+        "locale": "Malcom X Blvd @ 145 St",
+        "area": "bronx"
+    },
+    "933": {
+        "locale": "Henry Hudson Pkwy @ 125 St",
+        "area": "manhattan"
+    },
+    "934": {
+        "locale": "2 Ave @ 74 St",
+        "area": "manhattan"
+    },
+    "935": {
+        "locale": "Kissena Blvd @ Sanford Ave",
+        "area": "queens"
+    },
+    "936": {
+        "locale": "Cross Bay Blvd @ 6 Rd",
+        "area": "queens"
+    },
+    "937": {
+        "locale": "Broadway @ 145 St",
+        "area": "manhattan"
+    }
+}
