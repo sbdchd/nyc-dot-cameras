@@ -71,10 +71,6 @@
         "locale": "GR Brewer @ Belt",
         "area": "queens"
     },
-    "154": {
-        "locale": "Victory Blvd @ Jersey St",
-        "area": "statenIsland"
-    },
     "155": {
         "locale": "Victory Blvd @ Bay St",
         "area": "statenIsland"
@@ -175,17 +171,13 @@
         "locale": "FDR Dr @ 96 Street",
         "area": "manhattan"
     },
-    "187": {
-        "locale": "Broadway @ 46 Street",
-        "area": "manhattan"
-    },
     "188": {
         "locale": "FDR Dr @ 135 Street",
         "area": "manhattan"
     },
-    "192": {
-        "locale": "11 Ave @ 42 St",
-        "area": "manhattan"
+    "202": {
+        "locale": "Major Deegan Expy @ S of W 167 Street",
+        "area": "bronx"
     },
     "203": {
         "locale": "Major Deegan Expy @ N of Alex Hamilton Bridge",
@@ -223,12 +215,12 @@
         "locale": "SIE @ Clove Rd",
         "area": "statenIsland"
     },
-    "248": {
-        "locale": "Amsterdam @ 178 St",
+    "247": {
+        "locale": "2 Ave @ 125 St",
         "area": "manhattan"
     },
-    "253": {
-        "locale": "FDR Dr @ 23 St",
+    "248": {
+        "locale": "Amsterdam @ 178 St",
         "area": "manhattan"
     },
     "274": {
@@ -254,14 +246,6 @@
     "290": {
         "locale": "Northern Blvd @ 68 St",
         "area": "queens"
-    },
-    "291": {
-        "locale": "Henry Hudson Pkwy @ 96 St",
-        "area": "manhattan"
-    },
-    "292": {
-        "locale": "West St @ Clarkson",
-        "area": "manhattan"
     },
     "294": {
         "locale": "Macombs Dam Bridge",
@@ -319,12 +303,12 @@
         "locale": "Brooklyn-Battery Tunnel @ Brooklyn Side",
         "area": "brooklyn"
     },
-    "313": {
-        "locale": "Marine Parkway @ North Bound",
-        "area": "brooklyn"
+    "315": {
+        "locale": "CrossBay @ South Bound",
+        "area": "queens"
     },
-    "314": {
-        "locale": "Marine Parkway @ South Bound",
+    "316": {
+        "locale": "CrossBay @ North Bound",
         "area": "queens"
     },
     "318": {
@@ -333,6 +317,10 @@
     },
     "319": {
         "locale": "West Street @ Intrepid",
+        "area": "manhattan"
+    },
+    "320": {
+        "locale": "Queens Midtown Tunnel @ Manhattan Side",
         "area": "manhattan"
     },
     "321": {
@@ -371,7 +359,8 @@
         "locale": "1 Ave @ 23 St",
         "area": "manhattan"
     },
-    "366": {
+
+   "366": {
         "locale": "2 Ave @ 49 St",
         "area": "manhattan"
     },
@@ -397,10 +386,6 @@
     },
     "400": {
         "locale": "3 Ave @ 59 St",
-        "area": "manhattan"
-    },
-    "401": {
-        "locale": "West St @ Murray",
         "area": "manhattan"
     },
     "402": {
@@ -429,10 +414,6 @@
     },
     "410": {
         "locale": "3 Ave @ 49 St",
-        "area": "manhattan"
-    },
-    "412": {
-        "locale": "Lexington Ave @ 49 St",
         "area": "manhattan"
     },
     "413": {
@@ -527,6 +508,10 @@
         "locale": "Belt Pkwy @ Brookville Blvd",
         "area": "queens"
     },
+    "445": {
+        "locale": "Broadway @ Chambers St",
+        "area": "manhattan"
+    },
     "446": {
         "locale": "Montgomergy @ South St",
         "area": "manhattan"
@@ -565,10 +550,6 @@
     },
     "458": {
         "locale": "WBB-18 @ SOR Cntr Span",
-        "area": "brooklyn"
-    },
-    "459": {
-        "locale": "MHB-16 Manhattan Colonade Entr",
         "area": "brooklyn"
     },
     "461": {
@@ -659,20 +640,12 @@
         "locale": "Flatbush Ave and Atlantic Ave",
         "area": "brooklyn"
     },
-    "489": {
-        "locale": "7 Ave @ 43 St",
-        "area": "manhattan"
-    },
     "491": {
         "locale": "Atlantic Ave @ Boerum St",
         "area": "brooklyn"
     },
     "492": {
         "locale": "Atlantic Ave @ BQE",
-        "area": "brooklyn"
-    },
-    "493": {
-        "locale": "Flatbush Ave@ 6 Ave",
         "area": "brooklyn"
     },
     "495": {
@@ -753,7 +726,8 @@
     },
     "522": {
         "locale": "Madison Ave @ 42 St",
-        "area": "manhattan"
+        "area": "manha
+ttan"
     },
     "523": {
         "locale": "5 Ave @ 42 St",
@@ -831,10 +805,6 @@
         "locale": "12 Ave @ 22 St",
         "area": "manhattan"
     },
-    "548": {
-        "locale": "12 Ave @ 14 St",
-        "area": "manhattan"
-    },
     "550": {
         "locale": "1 Ave @ 42 St",
         "area": "manhattan"
@@ -879,6 +849,10 @@
         "locale": "Van Wyck Expwy @ Foch Blvd. SB",
         "area": "queens"
     },
+    "576": {
+        "locale": "Van Wyck Expwy Btwn 115 Ave. & 116 Ave",
+        "area": "queens"
+    },
     "577": {
         "locale": "Prospect Expy @ 9 Ave",
         "area": "brooklyn"
@@ -886,6 +860,10 @@
     "578": {
         "locale": "Prospect Expy @ 7 Ave",
         "area": "brooklyn"
+    },
+    "579": {
+        "locale": "Van Wyck Expwy @ 111 Ave",
+        "area": "queens"
     },
     "580": {
         "locale": "Prospect Expy @ 6 Ave",
@@ -919,6 +897,10 @@
         "locale": "Van Wyck Expwy @ 87 Ave",
         "area": "queens"
     },
+    "593": {
+        "locale": "Van Wyck Expwy @ Jackie Robinson Pkwy",
+        "area": "queens"
+    },
     "596": {
         "locale": "Van Wyck Expwy @ 67 Rd",
         "area": "queens"
@@ -929,14 +911,6 @@
     },
     "599": {
         "locale": "Van Wyck Expwy @ College Point Blvd.",
-        "area": "queens"
-    },
-    "601": {
-        "locale": "Whitestone Expwy @ 25 Rd (Median)",
-        "area": "queens"
-    },
-    "602": {
-        "locale": "Whitestone Expwy @ 14 Ave (Median)",
         "area": "queens"
     },
     "604": {
@@ -955,48 +929,12 @@
         "locale": "Grand Central Pkwy @ 75 Street",
         "area": "queens"
     },
-    "613": {
-        "locale": "MLK Jr. Expwy @ Watchogue Rd",
-        "area": "statenIsland"
-    },
-    "618": {
-        "locale": "MLK Jr. Expwy @ Forest Ave.",
-        "area": "statenIsland"
-    },
-    "621": {
-        "locale": "MLK Jr. Expwy @ Walker Street",
-        "area": "statenIsland"
-    },
     "623": {
         "locale": "Korean War Veterans Pkwy @ Tyrellan Ave",
         "area": "statenIsland"
     },
     "625": {
         "locale": "Korean War Vetrans Pkwy @ Bloomingdale Rd",
-        "area": "statenIsland"
-    },
-    "626": {
-        "locale": "West Shore Expwy @ Englewood Ave",
-        "area": "statenIsland"
-    },
-    "628": {
-        "locale": "West Shore Expwy @ Woodrow Rd",
-        "area": "statenIsland"
-    },
-    "629": {
-        "locale": "West Shore Expwy @ Fresh Kills Creek",
-        "area": "statenIsland"
-    },
-    "631": {
-        "locale": "West Shore Expwy @ Victory Blvd",
-        "area": "statenIsland"
-    },
-    "633": {
-        "locale": "West Shore Expwy @ Meredith Blvd.",
-        "area": "statenIsland"
-    },
-    "636": {
-        "locale": "West Shore Expwy @ Edward Curry Ave",
         "area": "statenIsland"
     },
     "638": {
@@ -1037,10 +975,6 @@
     },
     "649": {
         "locale": "Long Island Expy @ ramp to W/B BQE",
-        "area": "queens"
-    },
-    "650": {
-        "locale": "Long Island Expy @ 48 St UL",
         "area": "queens"
     },
     "651": {
@@ -1099,13 +1033,9 @@
         "locale": "VWE08 NB at Foch Blvd - Ex2",
         "area": "queens"
     },
-    "682": {
-        "locale": "WSE03 SB at Bloomingdale Rd-Ex3",
-        "area": "statenIsland"
-    },
-    "684": {
-        "locale": "WSE06 NB at Muldoon Ave - Ex5",
-        "area": "statenIsland"
+    "681": {
+        "locale": "GCP08 EB at Roosevelt Ave - Ex9",
+        "area": "queens"
     },
     "686": {
         "locale": "BRE05 WB at Castle Hill Ave Ex52",
@@ -1113,10 +1043,6 @@
     },
     "689": {
         "locale": "FDR Dr @ 38 St",
-        "area": "manhattan"
-    },
-    "690": {
-        "locale": "FDR Dr @ 90 St",
         "area": "manhattan"
     },
     "691": {
@@ -1152,7 +1078,8 @@
         "area": "brooklyn"
     },
     "706": {
-        "locale": "Cross Bay Blvd @ Wildlife Refuge",
+
+    "locale": "Cross Bay Blvd @ Wildlife Refuge",
         "area": "brooklyn"
     },
     "707": {
@@ -1173,10 +1100,6 @@
     },
     "712": {
         "locale": "LIE @ Marathon Pkwy",
-        "area": "queens"
-    },
-    "713": {
-        "locale": "GCP @ LGA 94 St Exit",
         "area": "queens"
     },
     "714": {
@@ -1335,12 +1258,12 @@
         "locale": "MHB-30 @ BRK S URW @ TWR Walk Way",
         "area": "manhattan"
     },
-    "801": {
-        "locale": "MHB-22 Manh N URDWY @ Twr",
+    "800": {
+        "locale": "MHB-21 Manh N URDWY @ Arch",
         "area": "manhattan"
     },
-    "802": {
-        "locale": "MHB-23 Manh LRDWY @ Twr",
+    "801": {
+        "locale": "MHB-22 Manh N URDWY @ Twr",
         "area": "manhattan"
     },
     "803": {
@@ -1499,13 +1422,18 @@
         "locale": "2 Ave @ E 14 St",
         "area": "manhattan"
     },
+    "847": {
+        "locale": "Amsterdam Ave @ 181 St",
+        "area": "manhattan"
+    },
     "848": {
         "locale": "Northern Blvd @ 108 St",
         "area": "queens"
     },
     "849": {
         "locale": "Northern Blvd @ 114 St",
-        "area": "queens"
+
+       "area": "queens"
     },
     "850": {
         "locale": "Hylan Blvd @ Seaview Ave",
@@ -1559,10 +1487,6 @@
         "locale": "Hylan Blvd @ Seguine Ave",
         "area": "statenIsland"
     },
-    "864": {
-        "locale": "Hylan Blvd @ Midland Ave",
-        "area": "statenIsland"
-    },
     "866": {
         "locale": "Pelham Pkwy @ Stillwell Ave",
         "area": "bronx"
@@ -1570,10 +1494,6 @@
     "868": {
         "locale": "Queens Blvd @ 39 ST",
         "area": "queens"
-    },
-    "869": {
-        "locale": "MHB-16 Manh Colonade Entr",
-        "area": "manhattan"
     },
     "870": {
         "locale": "MHB-16A Manh East of Colonnade Entr",
@@ -1607,10 +1527,6 @@
         "locale": "Flatbush Ave @ Kings Hwy",
         "area": "brooklyn"
     },
-    "878": {
-        "locale": "Flatbush Ave @ Marine Park",
-        "area": "brooklyn"
-    },
     "879": {
         "locale": "Hylan Blvd @ West Fingerboard Rd & Sand Ln",
         "area": "statenIsland"
@@ -1627,13 +1543,17 @@
         "locale": "Northern Blvd @ Union St",
         "area": "queens"
     },
-    "883": {
-        "locale": "Pelham Pkwy E/B @ Boston Rd",
+    "884": {
+        "locale": "Pelham Pkwy W/B @ Boston Rd",
         "area": "bronx"
     },
     "885": {
         "locale": "Pelham Shore Rd @ City Island Rd",
         "area": "bronx"
+    },
+    "886": {
+        "locale": "Roosevelt Ave @ Parsons Blvd",
+        "area": "queens"
     },
     "887": {
         "locale": "QBB SOR @ Sutton Pl",
@@ -1658,10 +1578,6 @@
     "895": {
         "locale": "Henry Hudson Pkwy @ 70 St",
         "area": "manhattan"
-    },
-    "897": {
-        "locale": "Jackie Robinson Pkwy @ Queens Blvd",
-        "area": "queens"
     },
     "898": {
         "locale": "QBB NOR @ W Channel",
@@ -1715,12 +1631,12 @@
         "locale": "Park Ave @ 96 St",
         "area": "manhattan"
     },
+    "911": {
+        "locale": "College Point Blvd @ Booth Memorial Ave",
+        "area": "queens"
+    },
     "912": {
         "locale": "Old Fulton St @ Furman St",
-        "area": "brooklyn"
-    },
-    "914": {
-        "locale": "Washington St @ Prospect St",
         "area": "brooklyn"
     },
     "915": {
@@ -1770,10 +1686,6 @@
     "932": {
         "locale": "Malcom X Blvd @ 145 St",
         "area": "bronx"
-    },
-    "933": {
-        "locale": "Henry Hudson Pkwy @ 125 St",
-        "area": "manhattan"
     },
     "934": {
         "locale": "2 Ave @ 74 St",
