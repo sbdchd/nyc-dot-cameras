@@ -1,7 +1,8 @@
+"use strict";
+
 /* globals window document */
 
-var hashNum = function() {
-    'use strict';
+var hashNum = function hashNum() {
     var max = 826;
     var z = window.location.hash.split("#");
     var n = z.length > 1 ? z[1] : max;
@@ -13,8 +14,7 @@ var hashNum = function() {
     return n;
 };
 
-var load = function(n) {
-    'use strict';
+var load = function load(n) {
     var URL = "http://207.251.86.238/cctv";
     for (var i = 0; i < n; i++) {
         var src = URL + i;
@@ -24,15 +24,13 @@ var load = function(n) {
     }
 };
 
-var addLoadListen = function(el) {
-    'use strict';
-    el.addEventListener("load", function() {
+var addLoadListen = function addLoadListen(el) {
+    el.addEventListener("load", function () {
         el.src = el.src.split("?")[0] + "?" + new Date().getTime();
     });
 };
 
-document.addEventListener("DOMContentLoaded", function() {
-    'use strict';
+document.addEventListener("DOMContentLoaded", function () {
     var n = hashNum();
     load(n);
 

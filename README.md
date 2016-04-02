@@ -22,3 +22,23 @@ There around 425 active cameras and each camera feed provides roughly 20 KB imag
 
 So if you are expecting all the images to be loaded and updated every second,
 make sure you have the bandwidth.
+
+## Run Locally
+
+Install Babel Stuff
+
+```bash
+npm install
+```
+
+Transpile Javascript with Babel
+
+```bash
+npm run build
+```
+
+Run a web server in the directory
+
+```bash
+npm run server
+```
