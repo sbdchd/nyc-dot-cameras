@@ -1,39 +1,38 @@
-/* globals window document */
+const in_view = el => {
+  const top = el.getBoundingClientRect().top
+  const bottom = el.getBoundingClientRect().bottom
+  return top >= 0 && bottom <= window.innerHeight
+}
 
-var hashNum = function() {
-    var max = 826;
-    var z = window.location.hash.split("#");
-    var n = z.length > 1 ? z[1] : max;
+document.addEventListener('DOMContentLoaded', () => {
+  const MAX_NUMBER_OF_CAMERAS = 826
+  const WAIT_TIME = 500
+  const BASE_URL = 'http://207.251.86.238/cctv'
 
-    n = parseInt(n, 10);
-    if (!n) {
-        return max;
-    }
-    return n;
-};
+  Array(MAX_NUMBER_OF_CAMERAS).fill(0).forEach((_, i) =>  {
+    const img = document.createElement('img')
+    img.src = `${BASE_URL}${i}.jpg`
+    img.title = `Camera ${i}`
+    document.querySelector('body').insertAdjacentElement('beforeend', img)
+  })
 
-var load = function(n) {
-    var URL = "http://207.251.86.238/cctv";
-    for (var i = 0; i < n; i++) {
-        var src = URL + i;
-        var title = "Camera " + i;
-        var img = "<img src='" + src + ".jpg'" + "title='" + title + "'>";
-        document.getElementById("main").insertAdjacentHTML('beforeend', img);
-    }
-};
+  document.querySelectorAll('img').forEach(el => {
+    el.addEventListener('load', () => {
+      let lastFetched = new Date()
 
-var addLoadListen = function(el) {
-    el.addEventListener("load", () => {
-        el.src = el.src.split("?")[0] + "?" + new Date().getTime();
-    });
-};
+      const refetch = () => {
+        const currentTime = new Date()
+        const notRecentlyFetched = (currentTime - lastFetched) > WAIT_TIME
 
-document.addEventListener("DOMContentLoaded", function() {
-    var n = hashNum();
-    load(n);
+        const imageLoaded = el.complete
+        if (!document.hidden && notRecentlyFetched && in_view(el) && imageLoaded) {
+          lastFetched = currentTime
+          el.src = el.src.split('?')[0] + '?' + new Date().getTime()
+        }
+        setTimeout(refetch, WAIT_TIME)
+      }
 
-    var imgs = document.getElementsByTagName("img");
-    for (var i = 0; i < imgs.length; i++) {
-        addLoadListen(imgs[i]);
-    }
-});
+      setTimeout(refetch, WAIT_TIME)
+    }, { once: true })
+  })
+})

@@ -6,6 +6,22 @@ html(lang=en)
     meta(name='viewport' content='width=device-width, initial-scale=1')
     title#title NYC DOT Cameras
     meta(name='description' content='NYC DOT Cameras')
-  body#main
+    style.
+      body {
+        display: grid;
+        grid-auto-rows: min-content;
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        grid-gap: 1rem;
+        background-color: lightgray;
+        margin: 1rem;
+      }
+
+      img {
+        width: 100%;
+        border-radius: 5px;
+        align-self: center;
+        box-shadow: 0 2px 15px hsla(0, 0%, 4%, .17);
+      }
+  body
 
   script(src="public/js/index.js")

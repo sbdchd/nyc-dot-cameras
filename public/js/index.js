@@ -1,41 +1,40 @@
-"use strict";
+'use strict';
 
-/* globals window document */
-
-var hashNum = function hashNum() {
-    var max = 826;
-    var z = window.location.hash.split("#");
-    var n = z.length > 1 ? z[1] : max;
-
-    n = parseInt(n, 10);
-    if (!n) {
-        return max;
-    }
-    return n;
+var in_view = function in_view(el) {
+  var top = el.getBoundingClientRect().top;
+  var bottom = el.getBoundingClientRect().bottom;
+  return top >= 0 && bottom <= window.innerHeight;
 };
 
-var load = function load(n) {
-    var URL = "http://207.251.86.238/cctv";
-    for (var i = 0; i < n; i++) {
-        var src = URL + i;
-        var title = "Camera " + i;
-        var img = "<img src='" + src + ".jpg'" + "title='" + title + "'>";
-        document.getElementById("main").insertAdjacentHTML('beforeend', img);
-    }
-};
+document.addEventListener('DOMContentLoaded', function () {
+  var MAX_NUMBER_OF_CAMERAS = 826;
+  var WAIT_TIME = 500;
+  var BASE_URL = 'http://207.251.86.238/cctv';
 
-var addLoadListen = function addLoadListen(el) {
-    el.addEventListener("load", function () {
-        el.src = el.src.split("?")[0] + "?" + new Date().getTime();
-    });
-};
+  Array(MAX_NUMBER_OF_CAMERAS).fill(0).forEach(function (_, i) {
+    var img = document.createElement('img');
+    img.src = '' + BASE_URL + i + '.jpg';
+    img.title = 'Camera ' + i;
+    document.querySelector('body').insertAdjacentElement('beforeend', img);
+  });
 
-document.addEventListener("DOMContentLoaded", function () {
-    var n = hashNum();
-    load(n);
+  document.querySelectorAll('img').forEach(function (el) {
+    el.addEventListener('load', function () {
+      var lastFetched = new Date();
 
-    var imgs = document.getElementsByTagName("img");
-    for (var i = 0; i < imgs.length; i++) {
-        addLoadListen(imgs[i]);
-    }
+      var refetch = function refetch() {
+        var currentTime = new Date();
+        var notRecentlyFetched = currentTime - lastFetched > WAIT_TIME;
+
+        var imageLoaded = el.complete;
+        if (!document.hidden && notRecentlyFetched && in_view(el) && imageLoaded) {
+          lastFetched = currentTime;
+          el.src = el.src.split('?')[0] + '?' + new Date().getTime();
+        }
+        setTimeout(refetch, WAIT_TIME);
+      };
+
+      setTimeout(refetch, WAIT_TIME);
+    }, { once: true });
+  });
 });
